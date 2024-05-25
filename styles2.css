@@ -1,0 +1,34 @@
+* {
+    background-color: #131313;
+}
+
+/* sign up */
+.form__main{
+    background-color: #131313;
+    display: grid;
+    justify-content: center;
+    font-size: 100%;
+    margin: 50% 50%;
+    color: #fff;
+  }
+
+    .form__main a{
+        color: #fff;
+    text-decoration: none;
+    }
+
+  /* product tech */
+  .main__body{
+    color: #e9e9e9;
+    background-color: #131313;
+  }
+  
+  .main__body a{
+    color: #fff;
+    text-decoration: none;
+  }
+
+  .main__body img{
+    display: flex;
+    margin: auto;
+  }
